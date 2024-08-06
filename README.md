@@ -1,6 +1,6 @@
 # Family Relocation Document Repository
 
-Welcome to the Family Relocation Document Repository. This repository contains important documents related to our family's relocation process. Below, you'll find an index of all the documents organized by category.
+Welcome to the Family Relocation Document Repository. This repository contains important documents related to our family's relocation process. Below, you'll find an index of all the documents organized by category, as well as instructions on how to create a consolidated PDF of all documents.
 
 ## Table of Contents
 
@@ -8,6 +8,7 @@ Welcome to the Family Relocation Document Repository. This repository contains i
 2. [Work Permit](#work-permit)
 3. [Family Relocation](#family-relocation)
    - [Accommodation](#accommodation)
+4. [Creating a Consolidated PDF](#creating-a-consolidated-pdf)
 
 ## Passports
 
@@ -37,6 +38,32 @@ Documents related to our accommodation at Lilla Hagastiguen 1:
 - [Electricity Bill](https://github.com/miguelemosreverte/FamilyRelocation/blob/main/3.%20Family%20Relocation/6.%20Accomodation%20-%20Lilla%20Hagastiguen%201/Electricity%20Bill.pdf)
 - [Rent Agreement](https://github.com/miguelemosreverte/FamilyRelocation/blob/main/3.%20Family%20Relocation/6.%20Accomodation%20-%20Lilla%20Hagastiguen%201/Rent%20Agreement.pdf)
 - [Water Bill](https://github.com/miguelemosreverte/FamilyRelocation/blob/main/3.%20Family%20Relocation/6.%20Accomodation%20-%20Lilla%20Hagastiguen%201/Water%20Bill.pdf)
+
+## Creating a Consolidated PDF
+
+To create a single PDF containing all documents in this repository, follow these steps:
+
+1. Ensure you have Python installed on your system. The script is compatible with Python 3.6 and above.
+
+2. Install the required Python libraries by running:
+   ```
+   pip install PyPDF2 reportlab
+   ```
+   
+3. Open a terminal or command prompt, navigate to the repository's root directory, and run:
+   ```
+   python generate_pdf_summary.py
+   ```
+
+4. The script will create a new PDF file named `MergedFamilyRelocationDocuments.pdf` in the same directory.
+
+This consolidated PDF will include:
+- A table of contents listing all documents
+- Title pages for each document
+- The content of all PDF documents in the repository
+- Bookmarks for easy navigation between documents
+
+Note: If any PDFs cannot be processed (e.g., due to encryption or corruption), the script will include an error page for that document in the final PDF.
 
 ## Note
 
