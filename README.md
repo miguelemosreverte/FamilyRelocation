@@ -70,3 +70,18 @@ Note: If any PDFs cannot be processed (e.g., due to encryption or corruption), t
 This repository contains personal and sensitive information. While it's currently set as public, please consider the privacy implications and ensure you have the necessary permissions to share these documents publicly.
 
 If you have any questions or need further information, please contact the repository owner.
+
+
+-------------
+
+
+![](https://github.com/miguelemosreverte/Tree/blob/main/Line-000002.png?raw=true)
+![](https://github.com/miguelemosreverte/Tree/blob/main/Line-000003.png?raw=true)
+![](https://github.com/miguelemosreverte/Tree/blob/main/Line-000004.png?raw=true)
+![](https://github.com/miguelemosreverte/Tree/blob/main/Line-000005.png?raw=true)
+![](https://github.com/miguelemosreverte/Tree/blob/main/Line-000006.png?raw=true)
+![](https://github.com/miguelemosreverte/Tree/blob/main/Line-000007.png?raw=true)
+![](https://github.com/miguelemosreverte/Tree/blob/main/Line-000008.png?raw=true)
+![](https://github.com/miguelemosreverte/Tree/blob/main/Line-000009.png?raw=true)
+![](https://github.com/miguelemosreverte/Tree/blob/main/Line-000010.png?raw=true)
+![](https://github.com/miguelemosreverte/Tree/blob/main/Line-000011.png?raw=true)
